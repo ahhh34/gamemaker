@@ -1,0 +1,3 @@
+duy chuyển nhân vật né các xe 
+duy chuyển bình thường ấn các phím w đi lên, s đi xuống, d đi sang phải, a đi sang trái 
+khó hơn dùng các phím up, down, right, left nhân vật duy chuyển liên tục đến khi va chạm hoặc chuyển hướng
